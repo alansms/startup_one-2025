@@ -1,21 +1,39 @@
 # 📌 Sistema de Monitoramento e Análise Preditiva para Manutenção Industrial
 
-## 🔍 Introdução
-A manutenção de maquinários industriais é um fator crítico para garantir eficiência operacional, reduzir custos com reparos inesperados e evitar paradas produtivas. No entanto, métodos tradicionais de manutenção corretiva e preventiva muitas vezes não são suficientes para detectar falhas antes que se tornem problemas críticos.
-
-Este projeto propõe o desenvolvimento de um **sistema de análise preditiva e preventiva**, utilizando sensores IoT para monitoramento de **temperatura, vibração, umidade e consumo de energia**. A partir dos dados coletados, serão aplicadas técnicas de **Machine Learning** para detectar padrões e prever possíveis anomalias no funcionamento das máquinas, permitindo um diagnóstico antecipado e ações corretivas antes que falhas ocorram.
-
-O sistema será composto por sensores inteligentes, uma infraestrutura de comunicação eficiente e uma plataforma analítica baseada em aprendizado de máquina, proporcionando maior confiabilidade e segurança para processos industriais.
+## 🔍 Objetivo
+Desenvolver um **sistema avançado de detecção de anomalias** em maquinários industriais, utilizando **Machine Learning** e sensores **IoT**. O sistema será capaz de **identificar e prever falhas operacionais** com base na análise contínua de dados de **temperatura, vibração, umidade e consumo de energia**, permitindo a implementação de estratégias de **manutenção preditiva** para otimização do desempenho industrial.
 
 ---
 
-## 🎯 Objetivos do Projeto
-✔️ Desenvolver um **modelo preditivo de manutenção** baseado em dados de sensores.  
-✔️ Implementar um **sistema de detecção de anomalias** utilizando inteligência artificial.  
-✔️ Criar uma solução escalável e acessível para **indústrias de diferentes setores**.  
-✔️ Reduzir custos operacionais, aumentar a vida útil dos equipamentos e minimizar falhas inesperadas.  
+## 🎯 Principais Componentes
+
+- **Sensores IoT**: Dispositivos de monitoramento para aquisição de variáveis ambientais e operacionais, incluindo sensores de temperatura, vibração, umidade e consumo energético.
+- **Plataforma de Coleta de Dados**: Middleware responsável pela captura, armazenamento e processamento dos dados provenientes dos sensores IoT.
+- **Machine Learning**: Modelos de aprendizado de máquina treinados para identificar padrões anômalos e prever falhas futuras.
+- **Interface Web/Dashboard**: Plataforma de visualização interativa para monitoramento em tempo real, alertas de anomalias e geração de relatórios analíticos.
 
 ---
+
+## 🔬 Estratégia de Coleta e Treinamento de Dados
+1. **Fase Inicial - Coleta de Dados Normais**
+   - Registrar dados operacionais de equipamentos em **condições normais de funcionamento**.
+   - Determinar padrões estatísticos para definir um estado de referência.
+
+2. **Simulação de Anomalias**
+   - Induzir e registrar comportamentos anômalos nos equipamentos.
+   - Capturar dados de erro para compor um dataset robusto e representativo.
+
+3. **Treinamento do Modelo de Machine Learning**
+   - Utilizar os dados coletados para treinar algoritmos supervisionados e não supervisionados.
+   - Implementar técnicas como **Random Forest, SVM, LSTMs e Autoencoders** para aprimorar a detecção de falhas.
+
+---
+
+## ⚡ Primeiros Testes e Infraestrutura
+- Utilização de um **acelerômetro de 3 eixos** para análise de vibração mecânica.
+- Conectividade inicial via **ESP8266** utilizando **Wi-Fi** para transmissão de dados.
+- Implementação de um pipeline de dados para análise em tempo real.
+- Após validação do modelo, avaliação de protocolos de comunicação alternativos, incluindo **BLE, Zigbee e LoRaWAN**, para maior flexibilidade e escalabilidade da solução.
 
 ## 📌 Etapas do Projeto
 
@@ -59,16 +77,6 @@ O sistema será composto por sensores inteligentes, uma infraestrutura de comuni
 - **Linguagens**: Python (para ML e processamento de dados), C++/MicroPython (para IoT).
 - **Bibliotecas de Machine Learning**: Scikit-learn, TensorFlow, PyCaret.
 - **Framework para Dashboard**: Streamlit, Grafana, Flask/Django.
-
----
-
-## 🚀 Próximos Passos
-✅ Definir hardware e sensores para o primeiro protótipo.  
-✅ Criar um ambiente de coleta e armazenamento dos dados.  
-✅ Desenvolver um modelo inicial de Machine Learning com dados simulados.  
-✅ Implementar um dashboard para visualização dos dados coletados.  
-
-📌 Este repositório será atualizado conforme o progresso do projeto. Contribuições são bem-vindas!  
 
 ---
 
