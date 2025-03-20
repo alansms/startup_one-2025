@@ -100,7 +100,7 @@ https://fcc.report/FCC-ID/2BCIS-ST-ULTRA/7118255
 Sensores:
 https://www.manualdomaker.com/article/sensor-de-poeira-e-fumaca-dsm501a/ .
 https://d229kd5ey79jzj.cloudfront.net/974/MPU-6000-Datasheet1.pdf .
-https://www.bluemakers.com.br/suprimentos/termistor-ntc-100k-3950-cabo-1m-conector-dupont.
+https://www.bluemakers.com.br/suprimentos/termistor-ntc-100k-3950-cabo-1m-conector-dupont .
 
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
