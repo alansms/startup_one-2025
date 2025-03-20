@@ -109,46 +109,34 @@ Nosso sistema proporciona uma abordagem baseada em inteligência artificial e an
 - **Linguagens**: Python (ML e processamento de dados), C++/MicroPython (IoT).
 - **Bibliotecas de Machine Learning**: Scikit-learn, TensorFlow, PyCaret.
 - **Frameworks para Dashboard**: Streamlit, Grafana, Flask/Django.
-
 ---
-
-
 ## 📚 Referências
 
 ### Principais Fontes
 
-1. **Anomaly Detection in Industrial Machinery using IoT Devices and Machine Learning: a Systematic Mapping**
-2. **Predictive Maintenance Model Based on Anomaly Detection in Induction Motors: A Machine Learning Approach Using Real-Time IoT Data**
-3. **Deep Anomaly Detection for Time-series Data in Industrial IoT: A Communication-Efficient On-device Federated Learning Approach**
-4. **Detecção de anomalias de posicionamento em robôs industriais utilizando aprendizado de máquina**
-5. **Detecção de anomalias em aprendizado de máquina - IBM**
+1. [Anomaly Detection in Industrial Machinery using IoT Devices and Machine Learning: a Systematic Mapping](https://arxiv.org/abs/2307.15807)
+2. [Predictive Maintenance Model Based on Anomaly Detection in Induction Motors: A Machine Learning Approach Using Real-Time IoT Data](https://arxiv.org/abs/2310.14949)
+3. [Deep Anomaly Detection for Time-series Data in Industrial IoT: A Communication-Efficient On-device Federated Learning Approach](https://arxiv.org/abs/2007.09712)
+4. [Detecção de anomalias de posicionamento em robôs industriais utilizando aprendizado de máquina](https://repositorio.utfpr.edu.br/jspui/bitstream/1/33991/1/deteccaoanomaliasrobos.pdf)
+5. [Detecção de anomalias em aprendizado de máquina - IBM](https://www.ibm.com/br-pt/think/topics/machine-learning-for-anomaly-detection)
 
 ### Fontes Adicionais
 
-- *Levantamento Bibliográfico e Revisão da Literatura sobre Modelos de Detecção de Anomalias em Redes IoT com o Uso de Machine Learning*
-- *Métodos de Inteligência Artificial para Detecção de Falhas Industriais: Uma Análise Comparativa*
-- *Estudo da Aplicação de Algoritmos de Machine Learning na Manutenção Preditiva de Motores Elétricos*
-- *Aplicação de Sensor Virtual Baseado em Aprendizado de Máquina para Aprimoramento da Eficiência Global em Manufatura Digital*
-- *Modelos de Aprendizado de Máquina para Detecção de Anomalias no Processo de Manufatura de Pneus*
-- *Inteligência Artificial para Detectar Avarias em Motores Elétricos*
+- [Levantamento Bibliográfico e Revisão da Literatura sobre Modelos de Detecção de Anomalias em Redes IoT com o Uso de Machine Learning](https://www.fateccruzeiro.edu.br/revista/index.php/htec/article/download/432/293/)
+- [Métodos de Inteligência Artificial para Detecção de Falhas Industriais: Uma Análise Comparativa](https://repositorio.utfpr.edu.br/jspui/bitstream/1/34290/1/metodosinteligenciaartificialdeteccaofalhasindustriais.pdf)
+- [Estudo da Aplicação de Algoritmos de Machine Learning na Manutenção Preditiva de Motores Elétricos](https://www.researchgate.net/publication/374455039_Estudo_da_aplicacao_de_algoritmos_de_machine_learning_na_manutencao_preditiva_de_motores_eletricos)
+- [Aplicação de Sensor Virtual Baseado em Aprendizado de Máquina para Aprimoramento da Eficiência Global em Manufatura Digital](https://repositorio.unifesp.br/bitstream/handle/11600/69541/Aplicacao%20de%20Sensor%20Virtual%20baseado%20em%20Aprendizado%20de%20Maquina%20para%20Aprimoramento%20da%20Eficiencia%20Global%20em%20Manufatura%20Digital.pdf?isAllowed=y&sequence=1)
+- [Modelos de Aprendizado de Máquina para Detecção de Anomalias no Processo de Manufatura de Pneus](https://www.researchgate.net/publication/375056960_MODELOS_DE_APRENDIZADO_DE_MAQUINA_PARA_DETECCAO_DE_ANOMALIAS_NO_PROCESSO_DE_MANUFATURA_DE_PNEUS)
+- [Inteligência Artificial para Detectar Avarias em Motores Elétricos](https://cadenaser.com/comunitat-valenciana/2024/10/11/inteligencia-artificial-para-detectar-averias-en-motores-electricos/)
 
 ### Sensores e Hardware
 
-- Sensor de poeira e fumaça DSM501A
-- MPU-6000 Datasheet
-- Termistor NTC 100k 3950 com cabo e conector Dupont
+- [Sensor de poeira e fumaça DSM501A](https://www.manualdomaker.com/article/sensor-de-poeira-e-fumaca-dsm501a/)
+- [MPU-6000 Datasheet](https://d229kd5ey79jzj.cloudfront.net/974/MPU-6000-Datasheet1.pdf)
+- [Termistor NTC 100k 3950 com cabo e conector Dupont](https://www.bluemakers.com.br/suprimentos/termistor-ntc-100k-3950-cabo-1m-conector-dupont/)
 
 ---
 
 ## 📜 Licença
 
 Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📢 Como Contribuir
-
-Se você deseja contribuir com o projeto:
-
-1. Faça um **fork** do repositório.
-2. Crie uma **branch** com a sua feature:
-   ```sh
-   
