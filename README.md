@@ -90,5 +90,10 @@ Se você deseja contribuir com o projeto:
 
 ---
 
+Referencias:
+https://tractian.com/sensor-de-vibracao-para-zonas-ex?utm_source=google&utm_medium=cpc&utm_campaign=bra-conversion-institutional-produtos-cold-google-search-standard&utm_term=kw-smart-trac&utm_content=sensor%20tractian&gad_source=1&gbraid=0AAAAACa-O1EvPwdM4G_sLXnet12qoc44I&gclid=Cj0KCQjw1um-BhDtARIsABjU5x5cGUp0O52Pq96BNr1A7KVHDvs-k5lWy92qnTboZFFfdOZk7Ei9hwEaAiykEALw_wcB
+
+https://www.youtube.com/watch?v=tgjnD_j2iPE
+
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
