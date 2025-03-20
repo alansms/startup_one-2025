@@ -127,5 +127,18 @@ https://www.manualdomaker.com/article/sensor-de-poeira-e-fumaca-dsm501a/ .
 https://d229kd5ey79jzj.cloudfront.net/974/MPU-6000-Datasheet1.pdf/ .
 https://www.bluemakers.com.br/suprimentos/termistor-ntc-100k-3950-cabo-1m-conector-dupont/ .
 
+	1.	Anomaly Detection in Industrial Machinery using IoT Devices and Machine Learning: a Systematic Mapping
+https://arxiv.org/abs/2307.15807 ￼
+	2.	Predictive Maintenance Model Based on Anomaly Detection in Induction Motors: A Machine Learning Approach Using Real-Time IoT Data
+https://arxiv.org/abs/2310.14949 ￼
+	3.	Deep Anomaly Detection for Time-series Data in Industrial IoT: A Communication-Efficient On-device Federated Learning Approach
+https://arxiv.org/abs/2007.09712 ￼
+	4.	Detecção de anomalias de posicionamento em robôs industriais utilizando aprendizado de máquina
+https://repositorio.utfpr.edu.br/jspui/bitstream/1/33991/1/deteccaoanomaliasrobos.pdf ￼
+	5.	Detecção de anomalias em aprendizado de máquina - IBM
+https://www.ibm.com/br-pt/think/topics/machine-learning-for-anomaly-detection ￼
+
+
+
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
