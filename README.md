@@ -1,7 +1,32 @@
-# 📌 Sistema de Monitoramento e Análise Preditiva para Manutenção Industrial
+📌 Sistema de Monitoramento e Análise Preditiva para Manutenção Industrial
 
-## 🔍 Objetivo
-Desenvolver um **sistema avançado de detecção de anomalias** em maquinários industriais, utilizando **Machine Learning** e sensores **IoT**. O sistema será capaz de **identificar e prever falhas operacionais** com base na análise contínua de dados de **temperatura, vibração, umidade e consumo de energia**, permitindo a implementação de estratégias de **manutenção preditiva** para otimização do desempenho industrial.
+🔍 Objetivo
+
+Desenvolver um sistema avançado de detecção de anomalias em maquinários industriais, utilizando Machine Learning e sensores IoT. O sistema será capaz de identificar e prever falhas operacionais com base na análise contínua de dados de temperatura, vibração, umidade e consumo de energia, permitindo a implementação de estratégias de manutenção preditiva para otimização do desempenho industrial.
+
+⚠️ Problema a Ser Resolvido
+
+Atualmente, a manutenção de máquinas industriais enfrenta desafios como:
+	•	Falhas inesperadas 🛑 — Paradas não planejadas impactam a produtividade e aumentam custos operacionais.
+	•	Alto custo de manutenção corretiva 💰 — Reparos emergenciais exigem maior investimento e reduzem a vida útil dos equipamentos.
+	•	Dificuldade na identificação de padrões de anomalia 🔍 — Sensores coletam grandes volumes de dados, mas a análise manual é lenta e imprecisa.
+	•	Falta de previsibilidade 📉 — Empresas não conseguem antecipar falhas antes que impactem a operação.
+
+🏆 Solução Proposta
+
+Nosso sistema proporciona uma abordagem baseada em inteligência artificial e análise estatística, permitindo:
+
+✅ Monitoramento contínuo dos equipamentos em tempo real.
+✅ Detecção automática de anomalias utilizando o modelo Mahalanobis.
+✅ Predição de falhas com base em padrões históricos.
+✅ Redução de custos operacionais ao permitir manutenções planejadas.
+✅ Integração flexível com sistemas IoT para aquisição e processamento de dados.
+
+🚀 Tecnologias Utilizadas
+	•	🖥️ Backend: FastAPI para a API de análise preditiva.
+	•	📊 Machine Learning: Algoritmo de distância de Mahalanobis para detecção de anomalias.
+	•	🛠️ Infraestrutura: Docker para containerização e implantação eficiente.
+	•	📡 Sensores IoT: Coleta de dados de temperatura, vibração e consumo de energia.
 
 ---
 
