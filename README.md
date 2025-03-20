@@ -95,5 +95,7 @@ https://tractian.com/sensor-de-vibracao-para-zonas-ex?utm_source=google&utm_medi
 
 https://www.youtube.com/watch?v=tgjnD_j2iPE
 
+https://fcc.report/FCC-ID/2BCIS-ST-ULTRA/7118255
+
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
