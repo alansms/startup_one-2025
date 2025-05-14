@@ -110,6 +110,10 @@ Nosso sistema proporciona uma abordagem baseada em inteligência artificial e an
 - **Bibliotecas de Machine Learning**: Scikit-learn, TensorFlow, PyCaret.
 - **Frameworks para Dashboard**: Streamlit, Grafana, Flask/Django.
 ---
+- **Diagrama**:
+- ![Texto alternativo](diagrama.jpeg)
+
+
 ## 📚 Referências
 
 ### Principais Fontes
